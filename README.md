@@ -19,7 +19,7 @@ To initialize your local repository using the Cyanogemod manifest, use commands 
 
     repo init -u git://github.com/CyanogenMod/android.git -b cm-10.1
 
-    curl -L -o .repo/local_manifests/razrqcom.xml -O -L https://raw.github.com/razrqcom-dev-team/android_local_razrqcom/master/razrqcom.xml
+    curl -L -o .repo/local_manifests/orion.xml -O -L https://raw.github.com/razrqcom-dev-team/android_local_razrqcom/master/razrqcom.xml
  
     	( or Download: https://github.com/razrqcom-dev-team/android_local_razrqcom/blob/master/razrqcom.xml
 		and place it in ~/Android/.repo/local_manifest.xml (or ~/'name you chose'/.repo)
