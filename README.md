@@ -1,7 +1,7 @@
-android_local_razrqcom
+android_local_orion
 ======================
 
-Local Manifest for Motorola Razr Qcom devices
+Local Manifest for Motorola Razr M
 
 Getting Started
 ---------------
