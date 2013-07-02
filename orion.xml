@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://github.com/" name="gh" />
-
   <project name="marxman3/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="gh" revision="cm-10.1" />
   <project name="marxman3/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-10.1" />
   <project name="marxman3/android_vendor_motorola_xt907" path="vendor/motorola/xt907" remote="gh" revision="cm-10.1" />
