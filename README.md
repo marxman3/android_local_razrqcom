@@ -21,7 +21,7 @@ To initialize your local repository using the Cyanogemod manifest, use commands 
 
     curl -L -o .repo/local_manifests/orion.xml -O -L https://raw.github.com/marxman3/master/orion.xml
  
-    	( or Download: https://github.com/marxman3/blob/master/orion.xml
+    	( or Download: https://github.com/marxman3/android_local_razrqcom/blob/master/orion.xml
 		and place it in ~/Android/.repo/local_manifest.xml (or ~/'name you chose'/.repo)
 
 Then to sync up:
