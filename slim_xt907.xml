@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="SlimRoms/device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="github" revision="jb4.3" />
-  <project name="SlimRoms/device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="jb4.3" />
+  <project name="razrqcom-dev-team/android_device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="kk" />
   <project name="SlimRoms/kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="github" revision="jb4.3" />
   <project name="SlimRoms/vendor_motorola" path="vendor/motorola" remote="github" revision="jb4.3" />
   <project name="SlimRoms/hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="github" revision="jb4.3" />
   <project name="SlimRoms/hardware_qcom_display-caf" path="hardware/qcom/display-caf" remote="github" revision="jb4.3" />
   <project name="marxman3/android_device_motorola_xt907" path="device/motorola/xt907" remote="github" revision="kk-slim" />
-  </manifest>
+  </manifest> 
